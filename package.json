@@ -9,7 +9,6 @@
   "author": "Richo Arbianto",
   "license": "ISC",
   "dependencies": {
-    "@open-wa/wa-automate": "^3.10.10",
     "sqlite3": "^5.0.2",
     "venom-bot": "^3.0.14"
   }
